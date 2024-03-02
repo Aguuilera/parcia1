@@ -1,0 +1,65 @@
+html
+{
+    background-color: #dfdfdf;
+}
+body
+{
+    font-family: "Lucida Seans Unicode", sans-serif;
+    font-size: 14px;
+    background-color: #FFFFFF;
+    border: #d3d3d3 3px solid;
+    text-align: justify;
+    margin: 10px auto;
+    
+}
+h1
+{
+    
+    background-color:darkgoldenrod;
+    text-align: center;
+    color:black;
+}
+h2
+{
+    text-align: center;
+    background-image:url(formula.png);
+}
+p
+{
+    text-align: center;
+    color:black;
+}
+h3
+{
+    text-align: center;
+    color:black;
+}
+h5
+{
+    text-align: center;
+}
+#menu
+{
+    text-align: right;
+    border: #000;
+    cursor: pointer;
+    float: left;
+    width: 100px;
+    margin: 20px;
+    padding: 0;
+    list-style-type: none;
+}
+#menu li
+{
+    margin-bottom: 7px;
+    font-size: 100%;
+    text-align: right;
+    line-height: 30px;
+}
+#menu a
+{
+    text-align: right;
+    display:block;
+    text-decoration: none;
+    color:black;
+}
